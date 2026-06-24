@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\studentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\bll\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\bll\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\bll\\services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\bll\\interfaces\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iclassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|solutionrelative:studentmanagement\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|solutionrelative:studentmanagement\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|solutionrelative:studentmanagement\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|solutionrelative:studentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1404D2AE-D076-474C-829F-4C5B519A6124}|studentManagement\\studentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\bll\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\bll\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\repositories\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\resultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\repositories\\iresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\iresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\repositories\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\repositories\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\repositories\\iclassrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\iclassrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\dtos\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\dtos\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE62E2A-179C-4BA9-99E4-4B90AA1FBEA3}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|c:\\users\\user\\source\\repos\\studentmanagement\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDF3A7B-7336-472F-9FCA-6575BB3620D9}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Services\\SubjectService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\SubjectService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Services\\SubjectService.cs",
+              "RelativeToolTip": "BLL\\Services\\SubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:15:13.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Interfaces\\ISubjectService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\ISubjectService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Interfaces\\ISubjectService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\ISubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:14:39.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Services\\ClassService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ClassService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Services\\ClassService.cs",
+              "RelativeToolTip": "BLL\\Services\\ClassService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:14:05.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClassService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Interfaces\\IClassService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IClassService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Interfaces\\IClassService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IClassService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:13:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Controllers\\ResultController.cs",
+              "RelativeDocumentMoniker": "studentManagement\\Controllers\\ResultController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Controllers\\ResultController.cs",
+              "RelativeToolTip": "studentManagement\\Controllers\\ResultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:13:03.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "studentManagement\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "studentManagement\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:12:33.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "studentManagement\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "studentManagement\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:11:28.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "studentManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "studentManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:10:19.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "studentManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "studentManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:09:15.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "studentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\Program.cs",
+              "RelativeToolTip": "studentManagement\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:07:08.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Services\\AuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:57:54.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:57:28.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "studentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\studentManagement\\appsettings.json",
+              "RelativeToolTip": "studentManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-24T13:13:13.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:56:21.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:54:44.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:53:55.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:53:37.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\ResultRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ResultRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\ResultRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:53:03.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\IResultRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IResultRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\IResultRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:52:41.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\SubjectRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\SubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:52:00.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\ISubjectRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ISubjectRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\ISubjectRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ISubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:51:04.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClassRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\ClassRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ClassRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\ClassRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ClassRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:50:06.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IClassRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\IClassRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IClassRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\IClassRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IClassRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:48:43.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:26:41.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:40:39.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\DashboardDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\DashboardDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\DashboardDto.cs",
+              "RelativeToolTip": "DAL\\DTOs\\DashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:09:12.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClassDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\ClassDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\ClassDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\ClassDto.cs",
+              "RelativeToolTip": "DAL\\DTOs\\ClassDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:08:49.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\AuthDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\AuthDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\AuthDto.cs",
+              "RelativeToolTip": "DAL\\DTOs\\AuthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:08:38.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\ResultDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\ResultDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\ResultDto.cs",
+              "RelativeToolTip": "DAL\\DTOs\\ResultDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:08:26.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "DAL\\DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:08:10.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SubjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\SubjectDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\SubjectDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DTOs\\SubjectDto.cs",
+              "RelativeToolTip": "DAL\\DTOs\\SubjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:09:00.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:07:33.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Models\\Result.cs",
+              "RelativeToolTip": "DAL\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:07:16.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Models\\Subject.cs",
+              "RelativeToolTip": "DAL\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:06:59.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Models\\Student.cs",
+              "RelativeToolTip": "DAL\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:06:43.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Models\\Class.cs",
+              "RelativeToolTip": "DAL\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T13:02:04.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-24T13:09:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T10:05:53.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\studentManagement\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T10:05:23.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
