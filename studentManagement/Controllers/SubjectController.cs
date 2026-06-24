@@ -1,4 +1,5 @@
 ﻿using BLL.Services;
+using DAL.DTOs;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -17,17 +18,21 @@ namespace studentManagement.Controllers
 
         [HttpPost]
         [Authorize(Roles = "Admin")]
-        public async Task<IActionResult> Create([FromBody] string subjectName)
+        public async Task<IActionResult> Create([FromBody] SubjectDto dto)
         {
-            var id = await _svc.CreateAsync(subjectName);
+            if (string.IsNullOrWhiteSpace(dto.SubjectName))
+                return BadRequest(new { message = "Subject name is required." });
+            var id = await _svc.CreateAsync(dto.SubjectName);
             return Ok(new { id });
         }
 
         [HttpPut("{id}")]
         [Authorize(Roles = "Admin")]
-        public async Task<IActionResult> Update(int id, [FromBody] string subjectName)
+        public async Task<IActionResult> Update(int id, [FromBody] SubjectDto dto)
         {
-            var ok = await _svc.UpdateAsync(id, subjectName);
+            if (string.IsNullOrWhiteSpace(dto.SubjectName))
+                return BadRequest(new { message = "Subject name is required." });
+            var ok = await _svc.UpdateAsync(id, dto.SubjectName);
             return ok ? NoContent() : NotFound();
         }
 

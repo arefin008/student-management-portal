@@ -4,7 +4,11 @@ using System.Text;
 
 namespace DAL.DTOs
 {
-    internal class DashboardDto
+    public class DashboardStatsDto
     {
+        public int TotalStudents { get; set; }
+        public int TotalClasses { get; set; }
+        public int TotalSubjects { get; set; }
+        public int TotalResults { get; set; }
     }
 }

@@ -4,7 +4,8 @@ using System.Text;
 
 namespace DAL.DTOs
 {
-    internal class ClassDto
+    public class ClassDto
     {
+        public string ClassName { get; set; } = string.Empty;
     }
 }

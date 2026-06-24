@@ -4,7 +4,8 @@ using System.Text;
 
 namespace DAL.DTOs
 {
-    internal class SubjectDto
+    public class SubjectDto
     {
+        public string SubjectName { get; set; } = string.Empty;
     }
 }
